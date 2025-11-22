@@ -1,0 +1,23 @@
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #1b1b1d !important;
+  color: #fdb210 !important;
+  border: 1px solid #fdb210 !important;
+  border-radius: 8px !important;
+}
+
+.leaflet-popup-content {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.leaflet-interactive {
+  stroke: #fdb210 !important;
+  fill: rgba(253, 178, 16, 0.25) !important;
+}
+
+.leaflet-control-attribution {
+  font-size: 10px !important;
+  color: #777 !important;
+  background: transparent !important;
+}
