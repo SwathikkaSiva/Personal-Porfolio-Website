@@ -678,7 +678,7 @@ function Portfolio() {
                     <div className="col-12 col-sm-6 col-lg-4">
                       <div className="proj-box h-100">
                         <a
-                          href="https://www.figma.com/design/nuw0BbxgPoshdVZhKLadrN/Health-Bridge-Wireframe?node-id=477-143&t=pWqRhvgmR1vOyI5z-1"
+                          href="https://www.figma.com/design/nuw0BbxgPoshdVZhKLadrN/Health-Bridge-Wireframe?node-id=325-86&t=pWqRhvgmR1vOyI5z-1"
                           className="d-flex flex-column align-items-center text-center h-100"
                           target="_blank"
                           rel="noopener noreferrer"
@@ -692,6 +692,26 @@ function Portfolio() {
                           </div>
                           <div className="proj-title">Health Bridge Mobile App</div>
                           <div className="proj-type">Web Figma Design Flow</div>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="col-12 col-sm-6 col-lg-4">
+                      <div className="proj-box h-100">
+                        <a
+                          href="https://github.com/SwathikkaSiva/Landing-Screen-1/tree/main/Landing-Screen-1"
+                          className="d-flex flex-column align-items-center text-center h-100"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <div className="port-image d-flex align-items-center justify-content-center">
+                            <img
+                              src="/Images/landing-screen.png"
+                              className="img-fluid"
+                              alt="Personal Portfolio"
+                            />
+                          </div>
+                          <div className="proj-title">School Landing Page</div>
+                          <div className="proj-type">Responive Landing Screen Using HTML / CSS</div>
                         </a>
                       </div>
                     </div>
@@ -764,4 +784,3 @@ function Portfolio() {
 }
 
 export default Portfolio;
-
